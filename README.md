@@ -2,10 +2,13 @@
 
 🔧 Funcionalidades
 
-*✅ Adicionar tarefas digitadas em um campo de texto.
-*✅ Clicar em uma tarefa para riscá-la e mudar a cor para verde.
-*✅ Remover uma tarefa ao clicar no botão "excluir".
-*✅ Prevenção de tarefas vazias com alerta ao usuário.
+✅ Adicionar tarefas digitadas em um campo de texto.
+
+✅ Clicar em uma tarefa para riscá-la e mudar a cor para verde.
+
+✅ Remover uma tarefa ao clicar no botão "excluir".
+
+✅ Prevenção de tarefas vazias com alerta ao usuário.
 
 
 
